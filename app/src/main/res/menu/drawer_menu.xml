@@ -17,8 +17,8 @@
             android:icon="@drawable/ic_history"
             android:title="History" />
         <item
-            android:id="@+id/nav_border_color_black_24dp"
-            android:icon="@drawable/ic_history"
+            android:id="@+id/nav_suggestion"
+            android:icon="@drawable/ic_border_color_black_24dp"
             android:title="Suggestions" />
 
 
